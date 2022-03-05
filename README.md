@@ -19,6 +19,7 @@ From anywhere on your command line:
 
 ```sh
 $ gut "So this is my life today. I was sitting here having coffee when all of a sudden the phone wrang."```
+```
 
 Your little message will be saved as a git commit message in the gitblog repo. 
 
