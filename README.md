@@ -1,6 +1,10 @@
 # gitblog
 
-Easy-to-reach-for notes and personal blog from the command line, in a git repo
+Put your blog posts / notes / ideas / random thoughts
+
+in a git commit message.
+
+**gitblog** is an easy-to-reach-for notes and personal blog from the command line, in a git repo -- your very own git repo. 
 
 ## Install
 
